@@ -323,7 +323,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  bundler
   github-pages (~> 232)
 
 CHECKSUMS
