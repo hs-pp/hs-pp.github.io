@@ -1,0 +1,42 @@
+# Jekyll build output
+_site/
+
+# Jekyll caches
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler / Ruby
+/.bundle
+vendor/bundle
+.bundle/
+
+# RubyGems
+*.gem
+
+# Logs and temp
+*.log
+tmp/
+.npm-debug.log
+
+# Dependency directories
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Environment / secrets (if present)
+.env
+.env.*.local
+
+# Coverage/results
+coverage/
+coverage-html/
+
+# If you have local generated files for preview or export
+export/
