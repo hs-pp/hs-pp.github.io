@@ -2,7 +2,7 @@
 title: Steel Wool Games
 description: VR game engineer
 category: Game Dev
-date: 2016-09-01
+priority: 1
 client:
 role: Graphic Designer
 image: '/images/portfolio/accampfire.png'

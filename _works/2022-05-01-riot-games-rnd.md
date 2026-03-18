@@ -2,7 +2,7 @@
 title: Riot Games R&D
 description: R&D Engineer
 category: Game Dev
-date: 2022-05-01
+priority: 4
 client:
 role:
 image: '/images/portfolio/porodance.gif'

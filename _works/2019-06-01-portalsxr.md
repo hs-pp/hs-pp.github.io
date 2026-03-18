@@ -2,7 +2,7 @@
 title: PORTALSxr
 description: XR mobile app engineer
 category: Game Dev
-date: 2019-06-01
+priority: 2
 client:
 role: Software Engineer
 image: '/images/portfolio/accampfire.png'

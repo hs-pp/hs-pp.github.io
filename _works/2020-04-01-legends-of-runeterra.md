@@ -2,7 +2,7 @@
 title: Legends of Runeterra
 description: Metagame Features Engineer
 category: Game Dev
-date: 2020-04-01
+priority: 3
 client:
 role:
 image: '/images/portfolio/accampfire.png'
