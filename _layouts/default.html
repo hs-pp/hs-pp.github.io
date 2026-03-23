@@ -5,7 +5,7 @@
 
 <body>
 
-  {% if site.data.settings.google-analytics %}
+  {% if jekyll.environment == "production" and site.data.settings.google-analytics %}
     {% include google-analytics.html %}
   {% endif %}
 
