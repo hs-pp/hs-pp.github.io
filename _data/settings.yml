@@ -109,4 +109,4 @@ disqus:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: 'G-C7965CW3DB' # Add your GA Tracking Id
